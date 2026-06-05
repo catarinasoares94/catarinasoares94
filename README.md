@@ -65,15 +65,10 @@ Frontend application built with Vue.js to interact with the boat reservation API
 
 Repository: [web-api-barcos-frontend](https://github.com/catarinasoares94/web-api-barcos-frontend)
 
-## 📈 GitHub Stats
-
-![Catarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinasoares94&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catarinasoares94&layout=compact)
-
 ## 📫 Contact
 
 - GitHub: [@catarinasoares94](https://github.com/catarinasoares94)
+- Linkedin: www.linkedin.com/in/catarina-soares-9b579a15b
 
 <!--
 **catarinasoares94/catarinasoares94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
